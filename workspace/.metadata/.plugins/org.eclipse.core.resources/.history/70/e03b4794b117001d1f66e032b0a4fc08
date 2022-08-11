@@ -1,0 +1,17 @@
+package day01;
+
+public class Goods {
+	private String name;
+	private int price;
+	private int countStock;
+	private int countSold;
+	
+	name = "Nikon";
+	price = 400000;
+	countStock = 30;
+	countSold = 50;
+	
+	public void setName(String name) {
+		this.name = name;
+	}
+}

@@ -1,0 +1,12 @@
+package Lotto;
+
+import java.util.*;
+
+public class Lottoball {
+	static List<Integer> list;
+	
+	for(int i=1; i<=45; i++) {
+		list.add(i);
+	}
+	
+}

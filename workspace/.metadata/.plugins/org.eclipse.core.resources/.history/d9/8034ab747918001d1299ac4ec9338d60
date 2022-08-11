@@ -1,0 +1,14 @@
+package TV;
+
+public class WatchTV {
+
+	public static void main(String[] args) {
+		tv tv = new tv();
+		System.out.println(tv.getChannel());
+		System.out.println(tv.getVolume());
+		tv.powerOff();
+		System.out.println(tv.getChannel());
+		System.out.println(tv.getVolume());
+	}
+
+}

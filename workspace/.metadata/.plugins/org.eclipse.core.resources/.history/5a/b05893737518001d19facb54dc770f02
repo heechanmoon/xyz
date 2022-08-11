@@ -1,0 +1,8 @@
+package TV;
+
+public class tv {
+	static int channel;
+	static int volume;
+	static boolean power;
+	
+}

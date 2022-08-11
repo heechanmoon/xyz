@@ -1,0 +1,10 @@
+package Lotto;
+
+import java.util.*;
+
+public class Lottoball {
+	static List<Integer> list;
+	
+	
+	
+}
